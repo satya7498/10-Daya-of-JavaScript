@@ -1,2 +1,2 @@
 # 10-Daya-of-JavaScript
-Solution to JS problems
+Solution to 10 days of JS problems
